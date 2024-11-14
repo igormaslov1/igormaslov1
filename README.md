@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @igormaslov1
+- 👋 Hi, I’m Igor
 - 👀 I’m interested in Product Development, Product Security and Deep Learning applications
 - 🌱 I’m currently mastering Go and TypeScript
 - 📫 Please do not hesitate to reach out on LinkedIn
