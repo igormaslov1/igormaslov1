@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @igormaslov1
-- 👀 I’m interested in API Development, Data Science and Data and Development Security
-- 🌱 I’m currently learning GO, TypeScript and perfecting my SQL skills
-- 💞️ I’m looking to collaborate on any project. My best lanugages are Python and Javascript
-- 📫 How to reach me, reach out on linked in, I will always respond
+- 👀 I’m interested in Product Development, Product Security and Deep Learning applications
+- 🌱 I’m currently mastering Go and TypeScript
+- 📫 Please do not hesitate to reach out on LinkedIn
 
 <!---
 igormaslov1/igormaslov1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
